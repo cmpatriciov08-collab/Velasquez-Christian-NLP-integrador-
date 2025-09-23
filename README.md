@@ -87,12 +87,12 @@ python -c "import nltk; nltk.download('stopwords'); nltk.download('punkt')"
 
 ## 👤 Autor
 
-**[Tu nombre]**  
-- GitHub: [@usuario](https://github.com/usuario)
-- Email: contacto@email.com
+**[Velasquez Christian]**  
+- GitHub: [@cmpatriciov08](https://github.com/cmpatriciov08-collab)
+- Email: 94721647@ifts24.edu.ar
 
 **Trabajo Integrador - NLP**  
-Fecha de realización: [Fecha del proyecto]
+Fecha de realización: [25/09/25]
 ---
 
 *Este proyecto forma parte de un estudio académico sobre aplicaciones de NLP en análisis musical y cultural.*
