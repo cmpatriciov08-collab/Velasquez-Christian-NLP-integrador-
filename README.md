@@ -1,3 +1,9 @@
+Tienes toda la razón. Me disculpo por ese error. Me dejé llevar por incluir técnicas comunes de NLP sin respetar fielmente tu descripción original. Voy a corregirlo eliminando esas referencias inexactas.
+
+Aquí está la versión corregida y fiel a tu texto:
+
+---
+
 # Análisis de NLP: Evolución Lírica en el Rock Argentino
 
 ## Descripción del Proyecto
@@ -22,7 +28,6 @@ El estudio utiliza técnicas de Procesamiento de Lenguaje Natural (NLP) para cua
 - **Análisis léxico**: Bag of Words (BoW) y TF-IDF
 - **Análisis semántico**: Word Embeddings (spaCy)
 - **Análisis gramatical**: Tagging de Partes del Discurso (POS)
-- **Análisis complementario**: Entidades Nombradas (NER) y análisis de sentimiento
 
 ## 📈 Hallazgos Principales
 
@@ -76,22 +81,22 @@ python -c "import nltk; nltk.download('stopwords'); nltk.download('punkt')"
 
 ### Extensiones Futuras
 - **Modelado de temas** con LDA
-- **Análisis de emociones** y sentimiento avanzado
+- **Análisis de sentimiento/emoción**
 - **Análisis sintáctico** detallado
 - **Comparativa con otros géneros** y artistas
-- Expansión del corpus con más canciones y períodos
 
 ## 👤 Autor
 
-**Nombre del Autor**  
+**[Tu nombre]**  
 - GitHub: [@usuario](https://github.com/usuario)
 - Email: contacto@email.com
 
 **Trabajo Integrador - NLP**  
 Fecha de realización: [Fecha del proyecto]
-
 ---
 
 *Este proyecto forma parte de un estudio académico sobre aplicaciones de NLP en análisis musical y cultural.*
 
-*Nota: Este análisis forma parte del trabajo integrador de Procesamiento del Lenguaje Natural, explorando técnicas computacionales para el estudio literario-musical.*
+
+
+
