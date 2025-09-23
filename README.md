@@ -1,8 +1,3 @@
-Tienes toda la razón. Me disculpo por ese error. Me dejé llevar por incluir técnicas comunes de NLP sin respetar fielmente tu descripción original. Voy a corregirlo eliminando esas referencias inexactas.
-
-Aquí está la versión corregida y fiel a tu texto:
-
----
 
 # Análisis de NLP: Evolución Lírica en el Rock Argentino
 
